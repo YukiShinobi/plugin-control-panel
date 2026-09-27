@@ -1,0 +1,9 @@
+{
+  "name": "plugin-control-panel",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Small control plane for validating and editing Minecraft plugin configuration.",
+  "main": "src/server.js",
+  "scripts": { "start": "node src/server.js", "test": "node --test" },
+  "engines": { "node": ">=20" }
+}
